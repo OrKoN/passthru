@@ -1,0 +1,22 @@
+{
+  "name": "passthru",
+  "version": "0.1.0",
+  "description": "Spawn shell commands and capture output while maintaining colors and formatting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrKoN/passthru.git"
+  },
+  "keywords": [
+    "spawn"
+  ],
+  "author": "Oleksii Rudenko <alexei.rudenko@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OrKoN/passthru/issues"
+  },
+  "homepage": "https://github.com/OrKoN/passthru#readme"
+}
